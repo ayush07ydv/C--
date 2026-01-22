@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Page-1" id="66Hndm80Il7bW9unshhk">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-3" edge="1" parent="1" source="1PRjYF-UAW-35mWsSsvn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1PRjYF-UAW-35mWsSsvn-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;START&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="355" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-6" edge="1" parent="1" source="1PRjYF-UAW-35mWsSsvn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1PRjYF-UAW-35mWsSsvn-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Selling Price &amp;amp; Cost Price&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="285" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-12" edge="1" parent="1" source="1PRjYF-UAW-35mWsSsvn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1PRjYF-UAW-35mWsSsvn-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-14" edge="1" parent="1" source="1PRjYF-UAW-35mWsSsvn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1PRjYF-UAW-35mWsSsvn-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Profit or Loss ?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="220" x="315" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" value="Loss Amount" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" value="Profit Amount" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;END&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="1PRjYF-UAW-35mWsSsvn-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="480" />
+            </Array>
+            <mxPoint x="720" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PRjYF-UAW-35mWsSsvn-18" edge="1" parent="1" source="1PRjYF-UAW-35mWsSsvn-13" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.424;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" target="1PRjYF-UAW-35mWsSsvn-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="121" y="480" />
+            </Array>
+            <mxPoint x="730" y="360" as="sourcePoint" />
+            <mxPoint x="495" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
